@@ -1,7 +1,7 @@
 import google.generativeai as genai
 from utils.config import GOOGLE_API_KEY
 
-# Configure Gemini API
+# Configuring Gemini API
 genai.configure(api_key=GOOGLE_API_KEY)
 
 def get_gemini_response(prompt):
