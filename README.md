@@ -48,16 +48,12 @@ TAVILY_API_KEY=your_tavily_api_key
 
 ---
 
-## **▶️ Running the Project**
-1. **Replace the query inside `main.py`** with your own question before running the script.  
-   ```python
-   query = "Enter your query here"
-   ```
-2. **Run the script**:
+## **▶️ Running the Project**  ```
+1. **Run the script**:
    ```sh
    python main.py
    ```
-
+2. **Enter your query:** 
 ---
 
 ## **🛠 File Structure**
