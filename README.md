@@ -1,8 +1,8 @@
-Here is the **updated README.md** file with the instructions to replace the query in `main.py` and without the license section.  
+
 
 ---
 
-## **Multi-Agent RAG System**  
+## **Multi-Agent Web Retrieval System**  
 A multi-agent Retrieval-Augmented Generation (RAG) system that integrates **Google Gemini 1.5 Pro**, **Tavily Search API**, and **LangGraph** to retrieve, fact-check, and summarize information from the web.  
 
 ### **📌 Features**
